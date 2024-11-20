@@ -1,2 +1,4 @@
 ls
-Hello word !! }{ }
+Hello wo rd !! }{ }
+Take it value
+1
